@@ -61,7 +61,7 @@ Male professors tend to have a higher course eval
 ## Exercise 7
 > How does the relationship between beauty and evaluation score vary between male and female professors?
 
-On average males tend to score .142 more on average 
+On average males tend to score .172 more on average when beauty is controlled for 
 
 ## Exercise 8 
 >How do the adjusted R2 values of m_bty_gen and m_bty compare? What does this tell us about how useful gender is in explaining the variability in evaluation scores when we already have information on the beauty score of the professor. 
