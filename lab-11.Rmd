@@ -100,7 +100,7 @@ Tenure track slope = -0.161 -- tenure track professors score lower than non-tenu
 
 Tenured slope = -0.126 -- tenured prof score lower than non-tenure track holding beauty constant  
 
-Bty_avg slope = 0.068 -- controlling   rank there is a .068 increase in score for every 1 point in 
+Bty_avg slope = 0.068 -- controlling for rank there is a .068 increase in score for every 1 point increase in beauty
 
 # Part 3: The search for the best model 
 Going forward, only consider the following variables as potential predictors: rank, ethnicity, gender, language, age, cls_perc_eval, cls_did_eval, cls_students, cls_level, cls_profs, cls_credits, bty_avg.
