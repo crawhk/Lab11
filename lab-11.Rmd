@@ -31,6 +31,15 @@ m_bty_gen <- linear_reg() %>%
   fit(score ~ gender + bty_avg, data = evals)
 ```
 
+
+```{r}
+summary(m_bty_gen$fit)$r.squared
+```
+R^2 = 0.059 
+R^2 Adjusted = 0.055
+
+y = 3.75 + .172(male) + .074(btyavg)
+
 ## Exercise 3
 > Interpret the slope and intercept of m_bty_gen in context of the data. 
 
